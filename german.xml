@@ -7,7 +7,7 @@
     <string name="ok">OK</string>
     <string name="cancel">Stornieren</string>
     <string name="choose_email_client">E-Mail-Client auswählen</string>
-    <string name="no_network">Du bist nicht online.</string>
+    <string name="no_network">Sie sind nicht online.</string>
     <string name="title_activity_settings">Einstellungen</string>
     <string name="preference_about_category">Über</string>
     <string name="share_action">Teilen</string>
@@ -79,7 +79,7 @@
         <item>6 Stunden</item>
     </string-array>
 
-    <string name="you_have_one_message">Du hast 1 neue Nachricht</string>
+    <string name="you_have_one_message">Sie haben 1 neue Nachricht</string>
     <string name="you_have_n_messages">Sie haben %d neue Nachrichten</string>
     <string name="notifications_settings">Benachrichtigungen</string>
     <string name="notification_sound">Benachrichtigungston</string>
@@ -96,7 +96,7 @@
     <string name="context_share_image">Bild teilen</string>
     <string name="context_copy_image_link">Link kopieren</string>
     <string name="context_share_image_progress">Vorbereiten&#8230;</string>
-    <string name="content_copy_link_done">Link kopiert in die Zwischenablage</string>
+    <string name="content_copy_link_done">Link in die Zwischenablage kopiert</string>
 
     <string name="permission_denied">Erlaubnis verweigert. Diese Aktion kann nicht abgeschlossen werden.</string>
 
@@ -107,13 +107,13 @@
     <string name="enable_location">Standort aktivieren</string>
 
     <string name="hide_ads">Entfernen Sponsored Posts</string>
-    <string name="hide_ads_more">Entfernen Sie alle Werbung in Facebook Newsfeed</string>
-	<string name="exit_message">Bist du sicher, dass du Maki schließen willst?</string>
+    <string name="hide_ads_more">Entfernen Sie jegliche Werbung im Facebook Newsfeed</string>
+	<string name="exit_message">Sind Sie sicher, dass Sie Maki schließen wollen?</string>
 	<string name="version">Version</string>
 
 
 	<string name="welcome">Hallo</string>
-    <string name="saved_pin_message">Wenn Sie Ihren Pin vergessen, bitte löschen Sie Maki Daten von Ihrem Handys Anwendungsmanager.</string>
+    <string name="saved_pin_message">Wenn Sie Ihren Pin vergessen haben, löschen Sie bitte Maki Daten von Ihrem Handy (Anwendungsmanager).</string>
 
     <string name="pin_code_forgot_text">Pin vergessen?</string>
     <string name="pin_code_step_disable">Deaktivieren Sie Ihren Passcode</string>
@@ -124,15 +124,15 @@
 
     <string name="pin_code_fingerprint_text">Fingerabdruck</string>
     <string name="pin_code_fingerprint_success">Fingerabdruck erkannt</string>
-    <string name="pin_code_fingerprint_not_recognized">Versuch es noch einmal</string>
+    <string name="pin_code_fingerprint_not_recognized">Versuchen Sie es noch einmal</string>
     <string name="activity_dialog_title">Übersetzen Sie nicht</string>
     <string name="activity_dialog_accept">Übersetzen Sie nicht</string>
     <string name="activity_dialog_content">Übersetzen Sie nicht</string>
     <string name="activity_dialog_decline">Übersetzen Sie nicht</string>
 	<string name="accept">Ich nehme an</string>
     <string name="kitkat_upload">KitKat Uploads</string>
-    <string name="kitkat_upload_message">Hallo, du scheinst, Android KitKat zu laufen. Wenn Ihre Version von KitKat 4.4 - 4.4.3 ist, werden Foto-Uploads nicht innerhalb von Maki funktionieren. Dies ist eine Einschränkung innerhalb dieser Versionen von KitKat. Diese Einschränkung ist in Version 4.4.4 von KitKat festgelegt.</string>
-    <string name="try_upload">Versuche das Hochladen</string>
+    <string name="kitkat_upload_message">Hallo, es scheinst, Sie haben Android KitKat auf Ihrem Handy. Wenn Ihre Version von KitKat 4.4 - 4.4.3 ist, werden Foto-Uploads nicht innerhalb von Maki funktionieren. Dies ist eine Einschränkung innerhalb dieser Versionen von KitKat. Diese Einschränkung ist in Version 4.4.4 von KitKat festgelegt.</string>
+    <string name="try_upload">Versuchen Sie das Hochladen</string>
     <string name="logged_out">Abgemeldet.</string>
     <string name="open_in_browser">Im Browser öffnen</string>
     <string name="copy_url">In die Zwischenablage kopieren</string>
@@ -149,7 +149,7 @@
     <string name="error_code_value" >falsch</string>
     <string name="auto_night_title">Automatisch Nachtthema</string>
     <string name="auto_night_more">Dunkles Thema wird nachts automatisch aktiviert</string>
-    <string name="logout_message">Bist du sicher, dass du dich von Maki abmelden möchtest?</string>
+    <string name="logout_message">Sind Sie sicher, dass Sie sich von Maki abmelden möchten?</string>
     <string name="context_share_video">Video teilen</string>
     <string name="change_log">Was gibt\'s Neues</string>
 	<string name="save_to">Gespeichert:</string>
@@ -202,15 +202,15 @@
     <string name="interval">Benachrichtigungsüberprüfungsintervall</string>
 
     <!--Crash Dialog-->
-    <string name="crash_toast_text">Irgendwas stimmt nicht.</string>
+    <string name="crash_toast_text">Irgendetwas stimmt nicht.</string>
     <string name="crash_dialog_title">Maki ist abgestürzt</string>
-    <string name="crash_dialog_text">Leider hat Maki aufgehört Bitte tippen Sie auf OK, um diesen Bericht per E-Mail zu senden.</string>
+    <string name="crash_dialog_text">Leider ist Maki abgestürzt. Bitte tippen Sie auf OK, um diesen Bericht per E-Mail zu senden.</string>
     <string name="crash_dialog_comment_prompt">Hier können Sie Kommentare zu diesem Absturz hinterlassen:</string>
 
     <string name="new_directory">Neues Verzeichnis erstellt: </string>
     <string name="changed">Gewechselt zu: </string>
     <string name="pins_here">Fügen Sie Ihre Lieblingsseiten hier für schnelleren Zugriff ein.</string>
-    <string name="download_not_found">Herunterladen nicht gefunden</string>
+    <string name="download_not_found">Download nicht gefunden</string>
     <string name="profile">Mich</string>
     <string name="share">Teilen</string>
 
@@ -229,10 +229,10 @@
     <string name="power_saving_mode">Energiesparmodus</string>
     <string name="power_saving_mode_more">Sparen Sie Energie und nutzen Sie Facebook länger</string>
 
-    <string name="thanks_support">Danke für deine Unterstützung!</string>
+    <string name="thanks_support">Danke für Ihre Unterstützung!</string>
     <string name="unable_purchase">Kauf storniert</string>
 
-    <string name="donate_support">Unterstützung Entwicklung</string>
+    <string name="donate_support">Unterstütze die Entwicklung</string>
     <string name="purchase">Kauf</string>
 
     <string name="help">Hilfe</string>
@@ -245,27 +245,27 @@
     <string name="added">Gespeichert zu den Favoriten</string>
     <string name="tofav">zu Favoriten.</string>
 
-    <string name="download_failed">Herunterladen fehlgeschlagen</string>
-    <string name="download_paused">Herunterladen pausiert</string>
-    <string name="download_pending">Herunterladen ausstehend</string>
-    <string name="download_in_progress">Herunterladen in Bearbeitung</string>
-    <string name="download_complete">Herunterladen komplett</string>
-    <string name="download_nowhere">Herunterladen ist nirgendwo in Sicht</string>
+    <string name="download_failed">Download fehlgeschlagen</string>
+    <string name="download_paused">Download pausiert</string>
+    <string name="download_pending">Download ausstehend</string>
+    <string name="download_in_progress">Download in Bearbeitung</string>
+    <string name="download_complete">Download komplett</string>
+    <string name="download_nowhere">Download ist nirgendwo in Sicht</string>
     <string name="image_share">Bild teilen</string>
 
     <string name="notifications_on">Benachrichtigungen eingeschaltet</string>
     <string name="turn_to_notifications">Aktivieren Sie Benachrichtigungen</string>
 
     <string name="remove_pin">Pin entfernen?</string>
-    <string name="should_remove">Bist du sicher, dass du es entfernen möchtest</string>
-    <string name="from_pins">von deinen Angepinnten Diese Aktion kann nicht rückgängig gemacht werden.</string>
+    <string name="should_remove">Sind Sie sicher, dass Sie</string>
+    <string name="from_pins">von Ihren Angepinnten entfernen möchten? Diese Aktion kann nicht rückgängig gemacht werden.</string>
     <string name="label">Etikette</string>
     <string name="license">Open Source Lizenzen</string>
 
     <string name="never">Nie</string>
 
     <string name="rate_hello">Bewerte Maki</string>
-    <string name="rate_more">Was denkst du über Maki? Bewerte Maki hier:</string>
+    <string name="rate_more">Was denken Sie über Maki? Bewerten Sie Maki hier:</string>
     <string name="negative_review">Negative Bewertung</string>
     <string name="contact_us">Bitte kontaktieren Sie uns und sagen Sie, was Sie in Maki nicht mögen. Vielen Dank!</string>
     <string name="review">Überprüfung</string>
@@ -282,7 +282,7 @@
 
     <string name="locked">Eingesperrt</string>
     <string name="please_enter_passcode">Geben Sie einen Passcode ein</string>
-    <string name="lock_input_again">Geben Sie neuen Passcode erneut ein</string>
+    <string name="lock_input_again">Geben Sie den neuen Passcode erneut ein</string>
     <string name="lock_input_not_match">Passcodes stimmen nicht überein.</string>
 
     <string name="buy_plus">Es ist Zeit für Maki Plus</string>
@@ -322,14 +322,14 @@
     <string name="plus_hello">Hallo,</string>
     <string name="plus_time">Es ist Zeit, Maki besser zu machen</string>
     <string name="maki_plus">Maki Plus</string>
-    <string name="plus_ads">Deaktivieren Sie alle Werbung von Facebook auf Ihrem News-Feed. Unglaublich.</string>
+    <string name="plus_ads">Deaktivieren Sie jegliche Werbung von Facebook auf Ihrem News-Feed. Unglaublich.</string>
     <string name="plus_dark">Dunkles Thema wird automatisch in der gewählten Zeit aktiviert. Genial.</string>
     <string name="plus_shortcuts">Verwenden Sie Maki schneller - erstellen Sie Verknüpfungen für Nachrichten und Benachrichtigungen auf dem Startbildschirm. Und mit QuickBar überall auf Facebook zugreifen. Fabelhaft.</string>
     <string name="plus_support">Jeder Maki Plus Kauf macht Maki besser - es ist eine tolle Motivation für mich!</string>
     <string name="plus_buy">Kaufen Maki Plus</string>
     <string name="plus_by">von Sunshine Apps</string>
 
-    <string name="help_translate">Hilfe übersetzen</string>
+    <string name="help_translate">Helfe beim Übersetzen</string>
 
     <string name="open_in">In-App-Browser</string>
     <string name="open_in_more">Öffnen Sie externe Links in Maki</string>
@@ -339,7 +339,7 @@
     <string name="twitter_first_more">Starten Sie Twitter schneller als Facebook</string>
 
 
-    <string name="top_tabs">Top navigation</string>
+    <string name="top_tabs">Top-Navigation</string>
     <string name="top_tabs_more">Navigations-Tab auf der Oberseite anzeigen</string>
 
     <string name="fbpage">Facebook Seite</string>
