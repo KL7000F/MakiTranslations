@@ -10,26 +10,26 @@
     <string name="no_network">Du bist nicht online.</string>
     <string name="title_activity_settings">Einstellungen</string>
     <string name="preference_about_category">Über</string>
-    <string name="share_action">Aktie</string>
+    <string name="share_action">Teilen</string>
     <string name="share_action_subject">Facebook Seite</string>
     <string name="success">Erfolg</string>
     <string name="error">Fehler</string>
     <string name="fragment_main_downloading">Wird heruntergeladen&#8230;</string>
     <string name="settings_more">Mehr</string>
 
-    <string name="update_share">Aktie</string>
+    <string name="update_share">Teilen</string>
     <string name="fab_jump">Springe nach oben</string>
 
     <string name="newsfeed">Neuigkeiten</string>
     <string name="messages">Meldungen</string>
-    <string name="faved">Stifte</string>
+    <string name="faved">Angeheftet</string>
     <string name="favorites">Favoriten</string>
     <string name="friends">Anfragen</string>
 
 
     <string name="photos">Fotos</string>
     <string name="maki_themes">Themen</string>
-    <string name="saved">Gerettet</string>
+    <string name="saved">Gespeichert</string>
     <string name="settings">Einstellungen</string>
 
     <string name="themes">Themen</string>
@@ -38,7 +38,7 @@
 
     <string name="news_feed_preferences">Facebook Einstellungen</string>
     <string name="fb_chat">Aktive Freunde</string>
-    <string name="refresh">Erneuern</string>
+    <string name="refresh">Aktualisieren</string>
 
     <string name="notifications">Benachrichtigungen</string>
     <string name="search">Suche</string>
@@ -69,8 +69,8 @@
 
     <string name="interval_pref_description">Benachrichtigungen werden synchronisiert %s</string>
     <string-array name="update_interval">
-        <item>30 Sekunden (Hohe Datenverwendung)</item>
-        <item>1 Minute (Hohe Datenverwendung)</item>
+        <item>30 Sekunden (Hoher Datenverbrauch)</item>
+        <item>1 Minute (Hoher Datenverbrauch)</item>
         <item>5 Minuten</item>
         <item>15 Minuten</item>
         <item>30 Minuten</item>
@@ -102,7 +102,7 @@
 
     <string name="copy_right">\u00A9</string>
 	<string name="error_general">Fehler</string>
-    <string name="save_img">Sparen</string>
+    <string name="save_img">Speichern</string>
     <string name="download_manager_disabled">Download Manager deaktiviert</string>
     <string name="enable_location">Standort aktivieren</string>
 
@@ -115,7 +115,7 @@
 	<string name="welcome">Hallo</string>
     <string name="saved_pin_message">Wenn Sie Ihren Pin vergessen, bitte löschen Sie Maki Daten von Ihrem Handys Anwendungsmanager.</string>
 
-    <string name="pin_code_forgot_text">Vergessen?</string>
+    <string name="pin_code_forgot_text">Pin vergessen?</string>
     <string name="pin_code_step_disable">Deaktivieren Sie Ihren Passcode</string>
     <string name="pin_code_step_create">Erstellen Sie einen Passcode</string>
     <string name="pin_code_step_change">Geben Sie Ihren aktuellen Passcode ein</string>
@@ -145,14 +145,14 @@
     <string name="getting_image">Bild erhalten</string>
     <string name="aleady_at_top">Bereits oben</string>
     <string name="removed">Entfernt</string>
-    <string name="from_favs">von den Stiften</string>
+    <string name="from_favs">von den Angepinnten</string>
     <string name="error_code_value" >falsch</string>
     <string name="auto_night_title">Automatisch Nachtthema</string>
     <string name="auto_night_more">Dunkles Thema wird nachts automatisch aktiviert</string>
     <string name="logout_message">Bist du sicher, dass du dich von Maki abmelden möchtest?</string>
     <string name="context_share_video">Video teilen</string>
     <string name="change_log">Was gibt\'s Neues</string>
-	<string name="save_to">Gespeichert an:</string>
+	<string name="save_to">Gespeichert:</string>
     <string name="downloading_on_mobile">Herunterladen mit mobilen Daten.</string>
     <string name="font_size">Schriftgröße</string>
     <string name="top_news_firstly">Top-Nachrichten zuerst anzeigen</string>
@@ -212,7 +212,7 @@
     <string name="pins_here">Fügen Sie Ihre Lieblingsseiten hier für schnelleren Zugriff ein.</string>
     <string name="download_not_found">Herunterladen nicht gefunden</string>
     <string name="profile">Mich</string>
-    <string name="share">Aktie</string>
+    <string name="share">Teilen</string>
 
     <string name="welcome_back">Herzlich willkommen!!</string>
     <string name="twitter">Twitter</string>
@@ -240,7 +240,7 @@
     <string name="home">Zuhause</string>
     <string name="switch_to_maki">Facebook</string>
 
-    <string name="no_location_permission">Keine Ortsberechtigung</string>
+    <string name="no_location_permission">Keine GPS-Berechtigung</string>
     <string name="no_storage_permission">Keine Speicherberechtigung</string>
     <string name="added">Gespeichert zu den Favoriten</string>
     <string name="tofav">zu Favoriten.</string>
@@ -258,7 +258,7 @@
 
     <string name="remove_pin">Pin entfernen?</string>
     <string name="should_remove">Bist du sicher, dass du es entfernen möchtest</string>
-    <string name="from_pins">von deinen Stiften Diese Aktion kann nicht rückgängig gemacht werden.</string>
+    <string name="from_pins">von deinen Angepinnten Diese Aktion kann nicht rückgängig gemacht werden.</string>
     <string name="label">Etikette</string>
     <string name="license">Open Source Lizenzen</string>
 
