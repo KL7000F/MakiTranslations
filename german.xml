@@ -5,7 +5,7 @@
     <string name="closeDrawer">Navigationsansicht</string>
     <string name="openDrawer">Öffnen Sie die linke Schublade</string>
     <string name="ok">OK</string>
-    <string name="cancel">Stornieren</string>
+    <string name="cancel">Abbruch</string>
     <string name="choose_email_client">E-Mail-Client auswählen</string>
     <string name="no_network">Sie sind nicht online.</string>
     <string name="title_activity_settings">Einstellungen</string>
@@ -199,7 +199,7 @@
     <string name="messenger_app">Facebook Messenger App</string>
     <string name="messenger_app_more">Verwenden Sie Facebook Messenger App statt integrierter Messenger</string>
 
-    <string name="interval">Benachrichtigungsüberprüfungsintervall</string>
+    <string name="interval">Intervall für Benachrichtigungen</string>
 
     <!--Crash Dialog-->
     <string name="crash_toast_text">Irgendetwas stimmt nicht.</string>
@@ -237,7 +237,7 @@
 
     <string name="help">Hilfe</string>
     <string name="dark">Dunkles Thema</string>
-    <string name="home">Zuhause</string>
+    <string name="home">Home</string>
     <string name="switch_to_maki">Facebook</string>
 
     <string name="no_location_permission">Keine GPS-Berechtigung</string>
@@ -259,7 +259,7 @@
     <string name="remove_pin">Pin entfernen?</string>
     <string name="should_remove">Sind Sie sicher, dass Sie</string>
     <string name="from_pins">von Ihren Angepinnten entfernen möchten? Diese Aktion kann nicht rückgängig gemacht werden.</string>
-    <string name="label">Etikette</string>
+    <string name="label">Beschriftung</string>
     <string name="license">Open Source Lizenzen</string>
 
     <string name="never">Nie</string>
@@ -268,7 +268,7 @@
     <string name="rate_more">Was denken Sie über Maki? Bewerten Sie Maki hier:</string>
     <string name="negative_review">Negative Bewertung</string>
     <string name="contact_us">Bitte kontaktieren Sie uns und sagen Sie, was Sie in Maki nicht mögen. Vielen Dank!</string>
-    <string name="review">Überprüfung</string>
+    <string name="review">Bewertung</string>
 
     <string-array name="font_choice">
         <item>80 %</item>
@@ -310,12 +310,12 @@
 
 
     <string name="about_description">Geschaffen mit Liebe von Sunshine Apps. 2016-2017</string>
-    <string name="like_on_facebook">Wie auf Facebook</string>
-    <string name="web">Kontakt</string>
+    <string name="like_on_facebook">Facebook</string>
+    <string name="web">Webseite</string>
 
     <string name="thanks_more">Vielen Dank! Bitte starten Sie die App neu, um mit allen neuen Funktionen von Maki Plus zu beginnen.</string>
     <string name="error_link">file:///android_asset/error_de.html</string>
-    <string name="shortcuts">Abkürzungen</string>
+    <string name="shortcuts">Quickbar</string>
 
 <string name="close">Schließen</string>
     <string name="support">Unterstützung</string>
@@ -326,7 +326,7 @@
     <string name="plus_dark">Dunkles Thema wird automatisch in der gewählten Zeit aktiviert. Genial.</string>
     <string name="plus_shortcuts">Verwenden Sie Maki schneller - erstellen Sie Verknüpfungen für Nachrichten und Benachrichtigungen auf dem Startbildschirm. Und mit QuickBar überall auf Facebook zugreifen. Fabelhaft.</string>
     <string name="plus_support">Jeder Maki Plus Kauf macht Maki besser - es ist eine tolle Motivation für mich!</string>
-    <string name="plus_buy">Kaufen Maki Plus</string>
+    <string name="plus_buy">Kaufe Maki Plus</string>
     <string name="plus_by">von Sunshine Apps</string>
 
     <string name="help_translate">Helfe beim Übersetzen</string>
